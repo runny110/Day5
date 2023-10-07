@@ -4,7 +4,7 @@ _tracks
 opa-debug-js
 
 *.opp
-*.opx
+*.opx+
 *.opx.broken
 *.dump
 *.api
